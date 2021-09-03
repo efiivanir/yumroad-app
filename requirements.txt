@@ -1,0 +1,12 @@
+flask
+ipython
+flask-shell-ipython
+requests
+yfinance
+gunicorn
+flask-sqlalchemy
+
+
+pytest
+pytest-flask
+pytest-cov
