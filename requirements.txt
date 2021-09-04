@@ -5,7 +5,7 @@ requests
 yfinance
 gunicorn
 flask-sqlalchemy
-
+Flask-WTF
 
 pytest
 pytest-flask
